@@ -27,15 +27,6 @@ Includes user role-based redirection, session handling, and basic error manageme
 * Vanilla JavaScript (form toggle)
 * XAMPP (Local Server)
 
-## Prerequisites
-
-Before running this project, ensure you have the following installed:
-
-* A web server (e.g., Apache, Nginx)
-* PHP (version >= 7.4 recommended)
-* MySQL (or MariaDB)
-* Composer (for dependency management, if you plan to use external libraries later)
-
 ## Setup Instructions
 
 1.  **Clone the repository (once you've created it on GitHub):**
@@ -72,25 +63,14 @@ Before running this project, ensure you have the following installed:
 5.  **Access the application:**
     * Open your web browser and navigate to the project's URL (e.g., `http://localhost/your-project-directory/register.php`).
 
+**Good luck with the GitHub setup! Let me know if you have any questions about that process.**
+
 # 📸 UI Preview
 
-**How to Use This README:**
 
-1.  **Copy the text above.**
-2.  **Create a new file named `README.md` in the root directory of your PHP project.**
-3.  **Paste the copied text into the `README.md` file.**
-4.  **Edit the following sections to match your project:**
-    * `[your-repository-url]` in the clone command.
-    * Update the "Planned Features" section as you progress.
-    * Describe your database connection file if it's named differently.
-    * Add a license if you choose to use one.
-    * Add any acknowledgements.
-
-Once you commit this `README.md` file to your Git repository and push it to GitHub, it will be displayed on your project's main page, providing valuable information to anyone who visits your repository.
 
 # 🧠 Author
-Taoshiflex
-Follow my journey on Facebook | LinkedIn
-🚀 Building the future, one project at a time!
+**Taoshiflex**
+**Follow my journey on Facebook | LinkedIn**
+**🚀 Building the future, one project at a time!**
 
-Good luck with the GitHub setup! Let me know if you have any questions about that process.
