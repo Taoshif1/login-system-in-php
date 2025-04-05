@@ -79,9 +79,6 @@ Includes user role-based redirection, session handling, and basic error manageme
   ![image](https://github.com/user-attachments/assets/6c13b2bb-078e-4c67-a1c3-efdf6c6a1dfb)
 
 
-
-
-
 # 🧠 Author
 
 **Taoshiflex**                                                                                                                                                                                                                                                         
