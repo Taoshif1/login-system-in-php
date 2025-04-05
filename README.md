@@ -66,13 +66,15 @@ Includes user role-based redirection, session handling, and basic error manageme
 **Good luck with the GitHub setup! Let me know if you have any questions about that process.**
 
 # 📸 UI Preview
+* 1. Login Page
+![image](https://github.com/user-attachments/assets/85d2df20-1331-4e79-9489-623a8b808926)
+
 
 
 
 # 🧠 Author
-**Taoshiflex**
 
-**Follow my journey on Facebook | LinkedIn**
-
-**🚀 Building the future, one project at a time!**
+**Taoshiflex**        <br>                                                                                                                                         
+**Follow my journey on Facebook | LinkedIn**                                                                                     
+**🚀Building the future, one project at a time!**                                                            
 
