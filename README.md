@@ -66,15 +66,25 @@ Includes user role-based redirection, session handling, and basic error manageme
 **Good luck with the GitHub setup! Let me know if you have any questions about that process.**
 
 # 📸 UI Preview
-* 1. Login Page
+* Login Page
 ![image](https://github.com/user-attachments/assets/85d2df20-1331-4e79-9489-623a8b808926)
+* Register Page
+ ![image](https://github.com/user-attachments/assets/1ea1a689-cde0-404a-ac75-6627e0e60702)
+* As i register before, i simply logged in to my User account
+  ![image](https://github.com/user-attachments/assets/a7120ffb-b2dd-476d-82a6-769f36d26e96)
+* I can also login to my Admin account
+  ![image](https://github.com/user-attachments/assets/cafa44e4-5653-4ca9-a67d-d2107650cc1e)
+**[i didn't bothered to center the buttons because i am learning PHP, not CSS]**
+* All the user accounts are being stored in the database
+  ![image](https://github.com/user-attachments/assets/6c13b2bb-078e-4c67-a1c3-efdf6c6a1dfb)
+
 
 
 
 
 # 🧠 Author
 
-**Taoshiflex**        <br>                                                                                                                                         
-**Follow my journey on Facebook | LinkedIn**                                                                                     
-**🚀Building the future, one project at a time!**                                                            
+**Taoshiflex**                                                                                                                                                                                                                                                         
+**CSE department at East West University, Dhaka, bangladesh**                                                                                                                                                                                                         
+**Follow my journey on my Facebook | LinkedIn**                                                                                                                                                                                                                                **🚀Building the future, one project at a time!**                                                                                                                                                                                                                   
 
