@@ -81,7 +81,7 @@ Includes user role-based redirection, session handling, and basic error manageme
 
 # 🧠 Author
 
-**Taoshiflex**                                                                                                                                                                                                                                                         
+**Gazi Taoshif**                                                                                                                                                                                                                                                         
 **CSE department at East West University, Dhaka, bangladesh**                                                                                                                                                                                                         
 **Follow my journey on my Facebook | LinkedIn**                                                                                                                                                                                                                                **🚀Building the future, one project at a time!**                                                                                                                                                                                                                   
 
