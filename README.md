@@ -1,14 +1,14 @@
 # PHP User Login & Registration System 🔐
 
 A simple login and registration system built using **PHP** and **MySQL**.  
-Includes user role-based redirection, session handling, and basic error management.
+Includes user role-based redirection, session handling and basic error management.
 
 ## 🔧 Features
 
-* User Registration (with name, email, password, role)
+* User Registration 
 * Secure Login with Password Hashing
 * Admin/User Role-Based Redirects
-* Error Handling (email already exists, invalid login)
+* Error Handling
 * Responsive UI with custom CSS
 * Clean & beginner-friendly code structure
 
@@ -17,14 +17,14 @@ Includes user role-based redirection, session handling, and basic error manageme
 * **To-Do Task Management:** Logged-in users will be able to:
     * Create new to-do tasks.
     * View their list of to-do tasks.
-    * (Potentially) Mark tasks as complete and delete tasks.
+    * Mark tasks as complete and delete tasks.
 
 ## 🛠️ Built With
 
 * PHP (Core)
 * MySQL (Database)
-* HTML/CSS (Frontend)
-* Vanilla JavaScript (form toggle)
+* HTML/CSS 
+* Vanilla JavaScript 
 * XAMPP (Local Server)
 
 ## Setup Instructions
